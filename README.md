@@ -21,6 +21,7 @@ To bring fair, provably random loot mechanics to blockchain games and marketplac
 - Chainlink VRF integration for secure randomness
 - Item crafting and crate fusion mechanics
 - Marketplace integration for opened rewards
+- project done by Abhishek Ranawat 
 
 ## Contract Details
 0x84A4be1c52Ed440134F2d23DB3cF842d60297090
