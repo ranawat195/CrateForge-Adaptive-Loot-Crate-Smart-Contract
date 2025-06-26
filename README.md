@@ -1,5 +1,5 @@
 # Project Title: CrateForge: Adaptive Loot Crate Smart Contract
-
+done by Abhishek Ranawat 
 ## Project Description
 
 CrateForge is a blockchain-based loot crate system that allows players to open randomized reward boxes. Rewards are determined based on weightings, ensuring dynamic rarity distributions.
