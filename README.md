@@ -11,7 +11,9 @@ To bring fair, provably random loot mechanics to blockchain games and marketplac
 ## Key Features
 
 - Loot crates with weighted item chances
-- ETH-based crate opening and payouts
+- ETH-based
+
+ crate opening and payouts
 - Owner-adjustable item pool and crate pricing
 - Transparent random distribution logic
 
