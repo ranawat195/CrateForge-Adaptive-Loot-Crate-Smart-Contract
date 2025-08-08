@@ -15,7 +15,7 @@ To bring fair, provably random loot mechanics to blockchain games and marketplac
 - Owner-adjustable item pool and crate pricing
 - Transparent random distribution logic
 
-## Future Scope
+## Future Scope 
 
 - NFT or ERC-20 item drops
 - Chainlink VRF integration for secure randomness
