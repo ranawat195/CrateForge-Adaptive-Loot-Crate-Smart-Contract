@@ -6,7 +6,7 @@ CrateForge is a blockchain-based loot crate system that allows players to open r
 
 ## Project Vision
 
-To bring fair, provably random loot mechanics to blockchain games and marketplaces, enabling true ownership and dynamic item pools.
+To bring fair, provably random loot mechanics to blockchain games and marketplaces, enabling true ownership and dynamic item   pools.
 
 ## Key Features
 
