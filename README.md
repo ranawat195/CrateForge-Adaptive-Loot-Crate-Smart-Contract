@@ -15,7 +15,7 @@ To bring fair, provably random loot mechanics to blockchain games and marketplac
 
  crate opening and payouts
 - Owner-adjustable item pool and crate pricing
-- Transparent random distribution logic
+- Transparent random distri bution logic
 
 ## Future Scope 
 
