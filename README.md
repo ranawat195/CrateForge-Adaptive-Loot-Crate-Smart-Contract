@@ -16,7 +16,7 @@ To bring fair, provably random loot mechanics to block chain games and marketpla
  crate opening and payouts
 - Owner-adjustable item pool and crate pricing
 - Transparent random distri bution logic
-
+ 
 ## Future Scope 
 
 - NFT or ERC-20 item drops
