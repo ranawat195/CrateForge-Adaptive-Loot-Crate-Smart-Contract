@@ -10,7 +10,7 @@ To bring fair, provably random loot mechanics to block chain games and marketpla
 
 ## Key Features
 
-- Loot crates with weighted item chances
+- Loot  crates with weighted item chances
 - ETH-based
 
  crate opening and payouts
