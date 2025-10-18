@@ -3,7 +3,7 @@ done by Abhishek Ranawat
 ## Project Description
 
 CrateForge is a blockchain-based loot crate system that allows players to open randomized rewar. d b oxes. Rewards are determined based on wei ghtings, ensuring dynamic rarity distributions.
-
+ 
 ## Project Vision
 
 To bring fair, provably random loot mechanics to   block chain games and marketplaces, enabling true ow nership and dyn amic   item   pools.
